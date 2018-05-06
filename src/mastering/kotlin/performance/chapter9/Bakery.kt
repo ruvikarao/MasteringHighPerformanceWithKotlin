@@ -48,12 +48,10 @@ class Bakery {
     }
 
     suspend fun coroutinesOrder(amountOfCakes: Int): List<Cake> {
-        val cakes = mutableListOf<Cake>()
         val baker = Baker()
-        (0 until amountOfCakes)
+        return (0 until amountOfCakes)
                 .map { async { baker.bake() } }
-                .forEach { cakes.add(it.await()) }
-        return cakes
+                .map { it.await()}
     }
 
     fun coroutinesSequenceOrder(amountOfCakes: Int) = buildSequence {
@@ -79,10 +77,10 @@ class Bakery {
     }
 }
 
-fun main(args: Array<String>) = runBlocking {
-    val cakes = Bakery().rxToCoroutinesOrder(10)
-    println("Number of cakes: ${cakes.size}")
-}
+//fun main(args: Array<String>) = runBlocking {
+//    val cakes = Bakery().rxToCoroutinesOrder(10)
+//    println("Number of cakes: ${cakes.size}")
+//}
 
 
 //suspend fun sendString(channel: SendChannel<String>, s: String, time: Long) {
@@ -106,10 +104,10 @@ fun main(args: Array<String>) = runBlocking {
 //}
 
 
-//fun main(args: Array<String>) = runBlocking {
-//    val cakes = Bakery().coroutinesOrder(amountOfCakes = 10)
-//    println("Number of cakes: ${cakes.size}")
-//}
+fun main(args: Array<String>) = runBlocking {
+    val cakes = Bakery().coroutinesOrder(amountOfCakes = 10)
+    println("Number of cakes: ${cakes.size}")
+}
 
 //fun main(args: Array<String>) {
 //     val cakes = Bakery().fastOrder(amountOfCakes = 10)

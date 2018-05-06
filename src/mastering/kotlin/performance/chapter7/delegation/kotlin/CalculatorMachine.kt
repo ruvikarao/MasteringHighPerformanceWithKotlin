@@ -1,7 +1,7 @@
 package delegation.kotlin
 
-import delegation.Calculator
-import delegation.CalculatorBrain
+import mastering.kotlin.performance.chapter7.delegation.Calculator
+
 
 class CalculatorMachine(private val delegate: Calculator): Calculator by delegate  {
 

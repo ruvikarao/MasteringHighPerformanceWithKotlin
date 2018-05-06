@@ -2,88 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb70f141-296f-45fa-a016-ce9610fdd3fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_2_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlinx_kotlinx_coroutines_core_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlinx_kotlinx_coroutines_reactive_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlinx_kotlinx_coroutines_rx2_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/memoryLeak/Example1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/memoryLeak/Example2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/memoryLeak/mutableKey/Example1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/memoryLeak/mutableKey/Example2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/memoryLeak/mutableKey/Example3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/memoryModel/Example1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/stringPool/Example1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/stringPool/Example2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/stringPool/Example3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/stringPool/Example4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/stringPool/Example5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/tryFinally/Example1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/tryFinally/Example2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/tryFinally/Example3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter10/higher_order_function/Archiver.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter10/higher_order_function/old/Archiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter10/higher_order_function/old/CompressionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter10/higher_order_function/old/ZipCompressionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter10/immutability/Example1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/example1/MyBenchmark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/example2/MyBenchmark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/example3/MyBenchmark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/example4/MyBenchmark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/example5/MyBenchmark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/example6/MyBenchmark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter3/Example1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter4/Example1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter4/Example2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter4/Example3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter4/Example4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter5/Benchmarks.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter5/CollectionsEx.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/Point.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/backing/fields/Button.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/backing/properties/Button.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/companion/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/constants/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/lateinit/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/CalculatorBrain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/CalculatorMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/SuperCalculatorBrain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/CalculatorBrain.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/CalculatorMachine.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/generics/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/lazy/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/observable/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/singleton/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/LaunchExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/suspendingSequence.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MasteringHighPerformanceWithKotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MasteringHighPerformanceWithKotlin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MasteringHighPerformanceWithKotlin/META-INF/MasteringHighPerformanceWithKotlin.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MasteringHighPerformanceWithKotlin/chapter9/section1/Baker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MasteringHighPerformanceWithKotlin/chapter9/section1/Bakery$fastOrder$bakingTask$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MasteringHighPerformanceWithKotlin/chapter9/section1/Bakery$order$bakingTask$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MasteringHighPerformanceWithKotlin/chapter9/section1/Bakery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MasteringHighPerformanceWithKotlin/chapter9/section1/BakeryKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MasteringHighPerformanceWithKotlin/chapter9/section1/Cake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/section1/Baker.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/section1/Bakery.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/section1/Cake.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/section1/NumberOfAvailableProcessors.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/companion/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/companion/Example.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/CalculatorBrain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/CalculatorBrain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/CalculatorMachine.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/CalculatorMachine.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/Bakery.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/Bakery.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -96,98 +21,90 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/singleton/Main.kt">
+      <file leaf-file-name="Bakery.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/Bakery.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="e#75#148#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="444">
+              <caret line="109" column="13" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="13" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/companion/Example.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.decompiled.java" pinned="false" current-in-tab="false">
+        <entry file="dummy://kotlinDecompiled/Main.decompiled.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-698" />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/generics/Main.kt">
+        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/constants/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-              <folding>
-                <element signature="e#74#147#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="115">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/observable/Main.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example1.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example1.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example2.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example2.kt">
+        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example3.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example3.kt">
+      <file leaf-file-name="CalculatorBrain.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/CalculatorBrain.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="115">
+              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example4.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example4.kt">
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="46">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example5.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example5.kt">
+      <file leaf-file-name="CalculatorBrain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/CalculatorBrain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example6.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example6.kt">
+      <file leaf-file-name="CalculatorMachine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/CalculatorMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example7.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example7.kt">
+      <file leaf-file-name="SuperCalculatorBrain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/SuperCalculatorBrain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -197,16 +114,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Interface" />
         <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>complete</find>
+      <find>prevId</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -222,13 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/readFirstLine/Example3.kt" />
-        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/readFirstLine/Example1.kt" />
-        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/memoryLeak/MemoryLeak.kt" />
-        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/memoryLeak/Example2.kt" />
-        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/memoryLeak/mutableKey/Example1.kt" />
-        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/memoryLeak/mutableKey/Example2.kt" />
-        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/memoryLeak/mutableKey/Example3.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter10/immutability/Example1.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/tryFinally/Example2.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/stringPool/Example1.kt" />
@@ -257,7 +168,6 @@
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter5/CollectionsEx.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter5/Benchmarks.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/Button.kt" />
-        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/companion/Main.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/backing/properties/Button.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/Main.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/Point.kt" />
@@ -270,9 +180,17 @@
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example1.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example2.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example3.kt" />
+        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example7.kt" />
+        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Benchmarks.kt" />
+        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Benchmarks3.kt" />
+        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Benchmarks1.kt" />
+        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Benchmarks2.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example5.kt" />
         <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example6.kt" />
-        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example7.kt" />
+        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/Bakery.kt" />
+        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/CalculatorBrain.kt" />
+        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/CalculatorMachine.kt" />
+        <option value="$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/companion/Main.kt" />
       </list>
     </option>
   </component>
@@ -282,7 +200,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="945" />
@@ -294,8 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -337,7 +253,96 @@
               <item name="mastering" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="performance" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringHighPerformanceWithKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringHighPerformanceWithKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="companion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringHighPerformanceWithKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringHighPerformanceWithKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringHighPerformanceWithKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringHighPerformanceWithKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="delegation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringHighPerformanceWithKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringHighPerformanceWithKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="delegation" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringHighPerformanceWithKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringHighPerformanceWithKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringHighPerformanceWithKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringHighPerformanceWithKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringHighPerformanceWithKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringHighPerformanceWithKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="higher_order_function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringHighPerformanceWithKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringHighPerformanceWithKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="higher_order_function" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringHighPerformanceWithKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringHighPerformanceWithKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="immutability" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MasteringHighPerformanceWithKotlin" type="b2602c69:ProjectViewProjectNode" />
@@ -347,6 +352,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -387,7 +394,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.mastering.kotlin.performance.chapter1.stringPool.Example4Kt">
+  <component name="RunManager" selected="Kotlin.mastering.kotlin.performance.chapter9.BakeryKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -409,16 +416,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="mastering.kotlin.performance.chapter10.immutability.Example1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="MasteringHighPerformanceWithKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="mastering.kotlin.performance.chapter10.immutability.Example1Kt" />
-      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="mastering.kotlin.performance.chapter1.stringPool.Example1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="MasteringHighPerformanceWithKotlin" />
@@ -460,6 +457,16 @@
       <option name="MAIN_CLASS_NAME" value="mastering.kotlin.performance.chapter1.stringPool.Example4Kt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
+    <configuration name="mastering.kotlin.performance.chapter9.BakeryKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="MasteringHighPerformanceWithKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="mastering.kotlin.performance.chapter9.BakeryKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -496,19 +503,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.mastering.kotlin.performance.chapter10.immutability.Example1Kt" />
       <item itemvalue="Kotlin.mastering.kotlin.performance.chapter1.stringPool.Example1Kt" />
       <item itemvalue="Kotlin.mastering.kotlin.performance.chapter1.stringPool.Example2Kt" />
       <item itemvalue="Kotlin.mastering.kotlin.performance.chapter1.stringPool.Example3Kt" />
       <item itemvalue="Kotlin.mastering.kotlin.performance.chapter1.stringPool.Example4Kt" />
+      <item itemvalue="Kotlin.mastering.kotlin.performance.chapter9.BakeryKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.mastering.kotlin.performance.chapter9.BakeryKt" />
         <item itemvalue="Kotlin.mastering.kotlin.performance.chapter1.stringPool.Example4Kt" />
         <item itemvalue="Kotlin.mastering.kotlin.performance.chapter1.stringPool.Example3Kt" />
         <item itemvalue="Kotlin.mastering.kotlin.performance.chapter1.stringPool.Example2Kt" />
         <item itemvalue="Kotlin.mastering.kotlin.performance.chapter1.stringPool.Example1Kt" />
-        <item itemvalue="Kotlin.mastering.kotlin.performance.chapter10.immutability.Example1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -538,12 +545,13 @@
       <workItem from="1524892548031" duration="7727000" />
       <workItem from="1525076628892" duration="3095000" />
       <workItem from="1525239492311" duration="854000" />
-      <workItem from="1525326673359" duration="7674000" />
+      <workItem from="1525326673359" duration="8342000" />
+      <workItem from="1525602636586" duration="1767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60075000" />
+    <option name="totallyTimeSpent" value="62510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -551,20 +559,22 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32846716" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50183153" side_tool="true" weight="0.32923076" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="right" id="Kotlin Bytecode" order="4" weight="0.32967034" />
+      <window_info anchor="right" id="Kotlin Bytecode" order="4" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295099" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498779" weight="0.36585367" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4981685" weight="0.3754386" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4981685" weight="0.37539104" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -573,25 +583,23 @@
       <window_info anchor="bottom" x="867" y="445" width="577" height="499" id="Debug" order="3" sideWeight="0.4993895" weight="0.45730993" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32846716" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498779" weight="0.32982457" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -601,17 +609,43 @@
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4981685" visible="true" weight="0.3754386" />
       <window_info anchor="bottom" x="785" y="215" width="625" height="484" id="Debug" order="3" sideWeight="0.4993895" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50183153" side_tool="true" weight="0.32923076" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32982457" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -642,102 +676,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/tryFinally/Example1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/tryFinally/Example3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/tryFinally/Example2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/stringPool/Example1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/stringPool/Example2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/stringPool/Example3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/stringPool/Example4.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter1/stringPool/Example5.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="108" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1575">
-          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-          <folding>
-            <element signature="e#2871#2872#0" expanded="true" />
-            <element signature="e#2896#2897#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/MyBenchmark.kt" />
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/example1/MyBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/example2/MyBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/example3/MyBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/example4/MyBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-847">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter2/benchmarking/example5/MyBenchmark.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -811,20 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter10/higher_order_function/Archiver.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/Benchmarks.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" selection-start-line="5" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter4/Example4.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -888,34 +812,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/constants/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/lateinit/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/Main.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/companion/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -940,9 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="e#74#147#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,6 +847,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Benchmarks3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Benchmarks1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#47#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Benchmarks2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#47#130#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -981,24 +905,127 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example7.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example5.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="253">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example6.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="253">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter8/Example7.kt">
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter10/higher_order_function/Archiver.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter10/immutability/Example1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/suspendingSequence.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/NumberOfAvailableProcessors.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/Lock.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/LaunchExample.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/Benchmarks.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" selection-start-line="5" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/CalculatorMachine.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/kotlin/CalculatorBrain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/CalculatorBrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/CalculatorMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter7/delegation/SuperCalculatorBrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/constants/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter6/companion/Example.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mastering/kotlin/performance/chapter9/Bakery.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="109" column="13" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="13" />
         </state>
       </provider>
     </entry>

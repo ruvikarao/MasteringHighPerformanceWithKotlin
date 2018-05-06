@@ -1,6 +1,7 @@
 package delegation.kotlin
 
-import delegation.Calculator
+import mastering.kotlin.performance.chapter7.delegation.Calculator
+
 
 class CalculatorBrain: Calculator {
 
