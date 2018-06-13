@@ -1,4 +1,4 @@
-# MasteringHighPerformanceWithKotlin
+# Mastering High Performance With Kotlin
 This project contains the code examples from [the "Mastering High Performance with Kotlin" book](https://www.packtpub.com/application-development/mastering-high-performance-kotlin).
 To build the project [import it as Maven project in Intellij IDEA](https://www.jetbrains.com/help/idea/maven-support.html).
 
